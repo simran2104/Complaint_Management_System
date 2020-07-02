@@ -1,2 +1,2 @@
 # Complaint_Management_System
-An online complaint filling website.
+A Project that used to submit customer’s complaints to the authorised company and make an interface between them.
