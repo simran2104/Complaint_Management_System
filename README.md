@@ -6,6 +6,7 @@
 <p>A Complaint Management System is a software application which is designed to take online complaints from customers and provide their solutions by some experts. It is the process of how organizations handle, manage, respond to and report customer complaints. </p>
 
 <h3>How this Project works:</h3>
+<p align="center"><img src="process.png"></p>
 <h3>Hardware Requirements:</h3>
 <p>
 	Processor 	: Pentium IV or above<br>
@@ -19,3 +20,9 @@
 	Python version 3.0 or above.<br>
 	MYSQL database.<br>
 </p>
+
+
+
+
+
+<p align="center">Thanks for reading 😊</p>
